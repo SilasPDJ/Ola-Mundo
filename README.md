@@ -3,4 +3,6 @@
 
 *Repositório criado durante uma aula ao vivo*
 
-Essa linha eu adicionei diretamente no site! QUE IMPRESSIONANTE!
+[Guia markdown](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf)
+
+[Tesntando linguagem markdown](https://github.com/SilasPDJ/Ola-Mundo/issues/1)
